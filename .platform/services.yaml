@@ -1,6 +1,6 @@
 
 database:
-    type: mysql:10
+    type: mysql:10.9
     disk: 512
 
 
