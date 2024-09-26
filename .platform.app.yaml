@@ -11,7 +11,9 @@ runtime:
         - iconv
         
 
-#variables:
+variables:
+  env:
+    DATABASE_URL: 'mysql://imane:CookieYuki17!@127.0.0.1:3307/sf_arcadia?serverVersion=10.4-MariaDB&charset=utf8mb4'
 #    php:
 #        # uncomment on PHP 7.4+
 #        #opcache.preload: config/preload.php
