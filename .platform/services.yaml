@@ -1,6 +1,6 @@
 
 database:
-    type: mysql:10.4.28-MariaDB
+    type: mysql
     disk: 512
 
 
