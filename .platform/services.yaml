@@ -1,6 +1,6 @@
 
 database:
-    type: postgresql:16
-    disk: 1024
+    type: mysql:10.9.3
+    disk: 512
 
 
